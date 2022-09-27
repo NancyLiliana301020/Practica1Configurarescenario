@@ -1,0 +1,39 @@
+body{
+
+    background-color:lightcoral
+}
+
+h1 {
+    color:rgb(8, 8, 8);
+    background:linear-gradient(30deg, crimson,sienna, royalblue, indianred, purple);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color:rgb(8, 8, 8);
+    background-image: radial-gradient(circle at 50% -20.71%, #d7c35d 0, #deba54 8.33%, #e4b04d 16.67%,
+     #e9a546 25%, #ed9841 33.33%, #f0893e 41.67%, #f2793c 50%, 
+     #f3673d 58.33%, #f35542 66.67%, #f34249 75%, #f22b52 83.33%, #f0065d 91.67%, #ec0069 100%);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin: 0px auto;
+}
+
+#fotoperrito{
+    height: 200px;
+    width: 300px;
+    display: block;
+    margin: 0px auto;
+}
